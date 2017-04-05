@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: assets/resume/Viktar_Charnarutski_Resume.pdf
 
-url: https://koppl.in/indigo
+url: http://viktarx.com
 # your url: http://USERNAME.github.io
 
 permalink: /:categories/:year/:month/:day/:title.html
