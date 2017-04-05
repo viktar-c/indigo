@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Viktar Charnarutski
+bio: Never stop moving
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,18 +8,18 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/viktar-charnarutski-700x700.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/resume/Viktar_Charnarutski_Resume.pdf
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:categories/:year/:month/:day/:title.html
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -30,40 +30,34 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: viktarcharnarutski # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: charnarutski
+# twitter: vityahd
 # google: mygoogle
-# instagram: myinstagram
+# instagram: vityahd
 # pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
-github: mygithub
-# lastfm: mylastfm
+linkedin: viktar-charnarutski
+# youtube: channel/UC0ypf0WhaEKCtscK8OIuMOQ
+# spotify: vityahd
+github: viktar-charnarutski
+# lastfm: hot-dog
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: v.charnarutski@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    viktar:
+        name: Viktar Charnarutski
+        bio: Never stop moving
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/viktar-charnarutski-700x700.jpg
+        twitter: vityahd
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -75,7 +69,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -94,7 +88,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
