@@ -16,13 +16,13 @@ resume: true
 resume-external: false
 resume-url: assets/resume/Viktar_Charnarutski_Resume.pdf
 
-url: http://viktarx.com
 # your url: http://USERNAME.github.io
+url: http://viktarx.com
 
 permalink: /:categories/:year/:month/:day/:title.html
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-96846335-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -44,7 +44,7 @@ linkedin: viktar-charnarutski
 # spotify: vityahd
 github: viktar-charnarutski
 # lastfm: hot-dog
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 6170272/viktar-charnarutski
 # quora: userquora
 # reddit: username
 # medium: medium
