@@ -21,5 +21,5 @@ optimization processes.</p>
 	<li>Python</li>
 	<li>Oracle DB, MySQL, MongoDB</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD, Continuous Integration</li>k
+	<li>TDD, Continuous Integration</li>
 </ul>
