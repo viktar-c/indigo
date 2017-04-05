@@ -7,6 +7,7 @@ tag:
 - synchronization
 - cache
 category: blog
+comments: true
 author: viktar
 description: Several options to get your data synchronized across data centers in a real time
 ---
@@ -42,6 +43,8 @@ Such data synchronization model is preferable because of following pross:
     <li> communication between clusters could be easily encrypted </li>
 </ul>
 
+---
+
 ## Single In-Memory Data Grid
 If, for some reason, there is no ability to spin up a separate IMDG
 cluster in each of your data centers, then you can think about to have
@@ -66,6 +69,8 @@ However, such communication model has significant drawbacks:
     server running in-front of data grid </li>
     <li> custom solution for messages' encryption could be required </li>
 </ul>
+
+---
 
 ## Shared In-Memory Data Grid
 It's strongly not recommended to spread your data grid cluster across
