@@ -82,5 +82,5 @@ single cluster:
 This model could be very unstable because of network latency, and
 cluster's communication between nodes from separate data centers could
 be interrupting.
-Also, inter-nodes communication could not be easily intercepted and
-compromised.
+Also, inter-nodes communication is not secure, so your data could be
+intercepted and compromised.
