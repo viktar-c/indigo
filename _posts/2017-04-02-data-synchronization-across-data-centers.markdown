@@ -15,9 +15,9 @@ description: Several options to get your data synchronized across data centers i
 If you have your application running in different data centers in
 <b>active-active manner</b> (<i>traffic is served by all data centers
 simultaneously</i>), you might want them to use the same datasource for
-up-to-date data processing.
+up-to-date data processing.<br/>
 In-memory data grid could be a good solution for sharing information
-across multiple data centers in a real time.
+across multiple data centers in a real time.<br/>
 And there are several ways how to build up such synchronization.
 <!--more-->
 
