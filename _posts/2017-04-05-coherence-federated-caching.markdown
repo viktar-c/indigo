@@ -30,7 +30,7 @@ replication across your data centers.
 3. [Switch to Proxy model](#switch-to-proxy-model)
 4. [Change your cache type to Federated](#change-your-cache-type-to-federated)
 5. [Define Federation participants](#define-federation-participants)
-6. [Open required ACL](#open-required-acl)
+6. [Open required ACLs](#open-required-acls)
 
 ## Before you start
 As it was already mentioned, the Federated Caching feature is available
@@ -92,7 +92,7 @@ This config file should be overridden for each cluster's member
 (proxy and storage nodes).<br/>
 For more details see [Defining Federation Participants][10]
 
-## Open required ACL
+## Open required ACLs
 It might be not obvious, but apart from clusters' ports, specified in
 [participants' list](#define-federation-participants), it's required to
 open **localport** of each storage-enabled member from both sides.<br/>
