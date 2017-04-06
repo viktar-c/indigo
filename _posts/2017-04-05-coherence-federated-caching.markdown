@@ -1,5 +1,5 @@
 ---
-title: "Coherence Federated Caching"
+title: "Coherence Federated Caching Configuration"
 layout: post
 date: 2017-04-05 15:53
 tag:
@@ -10,7 +10,7 @@ tag:
 category: blog
 comments: true
 author: viktar
-description: Configuration guide for Oracle Coherence Federated Caching Setup
+description: Configuration guide for Oracle Coherence Federated Caching
 ---
 
 With the recent 12.2.1 release of [Oracle Coherence][1] it's became
