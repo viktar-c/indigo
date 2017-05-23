@@ -18,8 +18,9 @@ it could be tricky to introduce a baking-map schema for cached data
 persistence.
 [Oracle documentation][5] has the following disclaimer for the [Write-Behind Caching][2] feature:<br/><br/>
 *For use with Partitioned (Distributed) and Near cache topologies. **Replicated** and Optimistic **caches should not be used.***<br/><br/>
-Does it mean that we lost an ability to use this nice feature if we're running
-in the [Federated Caching][1] mode? Let's see what can we do here.
+Does it mean that we have no chance to use this nice feature if have
+the Coherence cluster running in the [Federated Caching][1] mode?
+Let's see what can we do here.
 <!--more-->
 
 ## Write-Behind Overview
@@ -75,7 +76,7 @@ Also, consider to have both configuration settings available on your Coherence s
 
 So, if needed you can easily get your Coherence server switched from Read-Through
 to Write-Behind mode adding `-Dtangosol.coherence.cacheconfig=coherence-config-write-behind.xml`
-JVM parameter to your startup script and restart the node.
+JVM parameter to your startup script and restarting the node.
 
 [1]: {% post_url 2017-04-05-coherence-federated-caching %}
 [2]: https://docs.oracle.com/cd/E15357_01/coh.360/e15723/cache_rtwtwbra.htm#COHDG5181
