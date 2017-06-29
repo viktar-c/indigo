@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Hi there! I'm Viktar Charnarutski, and I'm a programmer with 9+ years
-of experience in the industry, primarily in eCommerce technologies.</p>
+of experience in the industry.</p>
 
 <p>I'm mostly focusing on performance management, troubleshooting and
 optimization processes.</p>
