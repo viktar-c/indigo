@@ -5,7 +5,7 @@ date: 2017-05-22 17:20
 tag:
 - write-behind
 - coherence
-- cache
+- in-memory computing
 
 category: blog
 comments: true

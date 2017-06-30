@@ -5,7 +5,7 @@ date: 2017-04-05 15:53
 tag:
 - coherence
 - synchronization
-- cache
+- in-memory computing
 
 category: blog
 comments: true

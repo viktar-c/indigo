@@ -5,7 +5,7 @@ date: 2017-04-02 22:30
 tag:
 - data
 - synchronization
-- cache
+- in-memory computing
 category: blog
 comments: true
 author: viktar
