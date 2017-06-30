@@ -14,11 +14,11 @@ description: Performance Engineering Toolkit
 
 Engineers are supposed to have various tools to have their routine work
 done in the most convenient and efficient way. And the wider expertise
-area an engineer has, the bigger and more diverse his toolkit is.
+area the engineer has, the bigger and more diverse his toolkit is.
 <br/><br/>
 Performance engineering requires quite specific and dedicated
-skills such as: systems architecture and engineering, load modeling and
-testing, troubleshooting and analysis. And, to apply these skills
+skills such as: systems architecture and engineering, troubleshooting
+and analysis, load modeling and testing. And, to apply these skills
 with high efficiency, performance engineer has to be familiar with
 different and sophisticated set of tools.<br/><br/>
 Here is my set of tools with brief functionality description:
@@ -38,9 +38,9 @@ Here is my set of tools with brief functionality description:
 Being a software developer you definitely know the importance of using
 a world-class integrated development environment (IDE).<br/><br/>
 There are a lot of disputes which IDE is better: [IntelliJ][1] or
-[Eclipse][5], and somebody could say that these products are equal,
-and your choice is a matter of taste. Wrong! Recommend them to switch
-to [IntelliJ][1] due to the following objective reasons:
+[Eclipse][5], and someone can say that these products are equal,
+and your choice is a matter of taste. Wrong! Recommend him to switch
+to the [IntelliJ][1] due to the following objective reasons:
 * intelligent [debugging][6]
 * intelligent [refactoring][7]
 * intelligent [autocomplete][8]
@@ -52,16 +52,16 @@ to [IntelliJ][1] due to the following objective reasons:
 
 [IntelliJ][1] literately knows all about your code. It indexes all
 the project's files, analyses and understands it. So, sometimes you
-could be really surprised how smart this IDE is.<br/>
+could be really surprised how smart your IDE is.<br/>
 There are a lot of plugins, and configurable settings for
-[IntelliJ IDEA][1], which makes your experience unique.
+[IntelliJ IDEA][1], which makes your experience unique.<br/>
 Check out my current <a href="/assets/tools/settings/intellij.jar">
 IntelliJ IDEA settings</a>.
 
 ## Java VisualVM
 [Java Virtual Machine][2] is a monitoring, troubleshooting, and profiling
 tool which is bundled with JDK version 6.7 or later. You just need to
-[enable your JVM (local or remote) for remote monitoring][3] and connect
+[enable][3] your JVM (local or remote) for remote monitoring] and connect
 to the JVM process with the [jvisualvm][2] tool. That's it! Now you're
 able to:
 * generate and analyse heap dumps
@@ -79,8 +79,8 @@ able to:
 
 Another great thing about the [VisualVM][2] tool is an ability to expand
 the basic functionality with pluggable extensions. You can choose an
-already existed plugin from the [Java VisualVM catalog][13] or create your own
-extension depending on your needs, something like
+already existed plugin from the [Java VisualVM catalog][13] or create
+your own extension depending on your needs, something like
 [Coherence JVisualVM Plug-In][4].
 
 ## YourKit Java Profiler
@@ -102,7 +102,7 @@ available in JDK built-in tools:
 
 The analysis tool that comes with [YourKit Java Profiler][12] is clear
 and intuitive, which makes it easy to get started with the tool and
-find out the root cause of your problem.
+find out the root cause of your performance issue.
 
 ## Eclipse MAT Analyser
 The [Eclipse Memory Analyzer][16] is a fast and feature-rich Java heap
@@ -119,18 +119,17 @@ sizes of objects, see who is preventing the Garbage Collector from
 collecting objects, run a report to automatically extract leak suspects.
 
 ## IBM Thread Analyzer
-[IBM Thread and Monitor Dump Analyzer][17] will help you with javacore
-and thread activities analyzes in order to identify the
-root cause of hangs, deadlocks, and resource contention or monitor
-bottlenecks.
+[IBM Thread and Monitor Dump Analyzer][17] could help you with javacore
+and thread activities analyzes in order to identify the root cause of
+hangs, deadlocks, and resource contention or monitor bottlenecks.
 
 {% include image.html name="ibm-thread-analyzer.png"
            caption="IBM Thread and Monitor Dump Analyzer for Java"
            alt="IBM Thread and Monitor Dump Analyzer for Java"
            width="650" %}
 
-It analyzes each thread information and provides diagnostic
-information, such as:
+It analyzes each thread information and provides diagnostic information,
+such as:
 * current thread information
 * the signal that caused the javacore
 * Java heap information
@@ -142,9 +141,9 @@ In addition, [IBM Thread and Monitor Dump Analyzer][17] could help you
 with recommended size of the Java heap cluster.
 
 ## GCeasy
-[GCeasy][9] is a great real-time garbage collection log analyser, which
-could help you to figure out whether your application is suffering from
-a memory leak or any other GC problems.<br/>
+[GCeasy][9] is a great real-time garbage collection log analyser,
+which could help you to figure out whether your application is suffering
+from a memory leak or any other GC problems.<br/>
 
 {% include image.html name="gceasy.png"
            caption="GCEasy Reports Potential GC Issues"
@@ -159,9 +158,8 @@ section.
 ## Apache JMeter
 Identifying the current performance bottlenecks you might need to
 reproduce them on your local performance stand. For that purpose I use
-[Apache JMeter][10]. This is very simple and powerful [open source][11]
-desktop Java application that is designed to load test and measure
-performance.
+[Apache JMeter][10] - very simple and powerful [open source][11]
+desktop Java application, designed to load test and measure performance.
 
 {% include image.html name="apache-jmeter.png"
            caption="Apache JMeter designed to load test and measure
@@ -178,8 +176,8 @@ graphs.
 Analyzing a particular issue or keeping an eye on your performance
 trends, you often can find yourself parsing megabytes of your
 application's logs. Don't be super nerdy inventing a wheel with your
-homemade log parser, there is a really great solution for your logs
-indexing, analysis and visualization - [Splunk][14].
+homemade log parser, start using [Splunk][14] - a great solution for
+your logs indexing, analysis and visualization.
 
 {% include image.html name="splunk.png"
            caption="Splunk can index, analyze and visualize a statistics
@@ -188,9 +186,9 @@ indexing, analysis and visualization - [Splunk][14].
            from your logs"
            width="650" %}
 
-[Splunk][14] has a free version with [limited][15] functionality,
-and, if your logs' volume is not exceeding 500MB per day, you can
-happily use this great tool for free.
+[Splunk][14] has a free version with [limited][15] functionality, and,
+if your logs' volume is not exceeding 500MB per day, you can happily use
+this powerful tool for free.
 
 [1]: https://www.jetbrains.com/idea
 [2]: https://docs.oracle.com/javase/6/docs/technotes/tools/share/jvisualvm.html
