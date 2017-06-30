@@ -159,7 +159,7 @@ section.
 ## Apache JMeter
 Identifying the current performance bottlenecks you might need to
 reproduce them on your local performance stand. For that purpose I use
-**Apache JMeter**. This is very simple and powerful [open source][11]
+[Apache JMeter][10]. This is very simple and powerful [open source][11]
 desktop Java application that is designed to load test and measure
 performance.
 
