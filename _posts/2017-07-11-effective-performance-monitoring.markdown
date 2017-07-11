@@ -19,7 +19,7 @@ are available and performing well, so you can keep providing a great
 customer experience successfully fast.
 <br/><br/>
 To have your performance metrics under your control I would recommend
-to follow some best practises described below.
+to follow the best practises described below.
 
 <!--more-->
 
