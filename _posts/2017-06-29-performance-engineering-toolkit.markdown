@@ -50,7 +50,7 @@ to the [IntelliJ][1] due to the following objective reasons:
            alt="JetBrains IntelliJ IDEA as the most intelligent IDE"
            width="650" %}
 
-[IntelliJ][1] literately knows all about your code. It indexes all
+[IntelliJ][1] literally knows all about your code. It indexes all
 the project's files, analyses and understands it. So, sometimes you
 could be really surprised how smart your IDE is.<br/>
 There are a lot of plugins, and configurable settings for
