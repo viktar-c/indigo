@@ -4,8 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there! I'm <b>Viktar Charnarutski</b>, and I'm a programmer with 9+ years
-of experience in the industry.</p>
+<p>Hi! I'm <b>Viktar Charnarutski</b>, I'm a Oracle certified
+programmer with 9+ years of experience in the industry.</p>
 
 <p>I'm mostly focusing on performance management, troubleshooting and
 optimization processes.</p>
@@ -24,4 +24,3 @@ optimization processes.</p>
 	YourKit Java Profiler, Eclipse MAT Analyser, IBM Thread Analyzer,
 	Apache JMeter</li>
 </ul>
-
