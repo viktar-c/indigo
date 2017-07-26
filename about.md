@@ -4,11 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I'm <b>Viktar Charnarutski</b>, I'm a Oracle certified
+<p>Hi there! I'm <b>Viktar</b>, I'm a certified Java
 programmer with 9+ years of experience in the industry.</p>
 
-<p>I'm mostly focusing on performance management, troubleshooting and
-optimization processes.</p>
+<p>I'm mostly focusing on Java programming, Performance Management
+and Optimization processes, Distributed Systems and In-Memory computing
+solutions.</p>
 
 ## My skill set
 
@@ -16,7 +17,7 @@ optimization processes.</p>
 	<li><b>Software engineering</b>: Java, Python, SQL</li>
 	<li><b><a href="/tags#performance">Performance engineering</a></b>:
 	scaling, analysis, troubleshooting</li>
-	<li><b><a href="/tags#in-memory-computing">In-memory computing</a></b>:
+	<li><b><a href="/tags#in-memory-computing">In-Memory computing</a></b>:
 	Oracle Coherence, Hazelcast</li>
 	<li><b>eCommerce</b>: Oracle Commerce ATG, SAP Hybris</li>
 	<li><b>Software Development Methodologies</b>: Scrum, Kanban, TDD</li>
