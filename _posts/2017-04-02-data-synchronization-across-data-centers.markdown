@@ -2,10 +2,20 @@
 title: "Data Synchronization Across Data Centers"
 layout: post
 date: 2017-04-02 22:30
+
 tag:
 - data
 - synchronization
 - in-memory computing
+
+keywords:
+- distributed cache
+- oracle coherence
+- coherence datagrid
+- coherence cache
+- data synchronization
+- in-memory computing
+
 category: blog
 comments: true
 author: viktar

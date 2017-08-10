@@ -2,9 +2,19 @@
 title: "Bottlenecks of Coherence Datagrid Setup"
 layout: post
 date: 2017-07-30 12:30
+
 tag:
 - best-practices
 - performance
+- in-memory computing
+
+keywords:
+- distributed cache
+- oracle coherence
+- coherence datagrid
+- coherence cache
+- coherence setup
+- coherence bottlenecks
 - in-memory computing
 
 category: blog

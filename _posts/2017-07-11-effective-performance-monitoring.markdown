@@ -2,10 +2,18 @@
 title: "Effective Performance Monitoring"
 layout: post
 date: 2017-07-11 12:30
+
 tag:
 - best-practices
 - performance
 - monitoring
+
+keywords:
+- performance monitoring
+- performance engineering best practices
+- performance trends
+- performance SLA
+- performance metrics
 
 category: blog
 comments: true

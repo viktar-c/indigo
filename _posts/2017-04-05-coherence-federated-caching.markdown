@@ -2,9 +2,19 @@
 title: "Coherence Federated Caching Configuration"
 layout: post
 date: 2017-04-05 15:53
+
 tag:
 - coherence
 - synchronization
+- in-memory computing
+
+keywords:
+- distributed cache
+- oracle coherence
+- coherence datagrid
+- coherence cache
+- data synchronization
+- federated caching
 - in-memory computing
 
 category: blog

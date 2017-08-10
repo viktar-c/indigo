@@ -2,10 +2,16 @@
 title: "Circuit Breaker Design Pattern"
 layout: post
 date: 2017-06-09 10:07
+
 tag:
 - design-pattern
 - performance
 - best-practices
+
+keywords:
+- circuit breaker design pattern
+- circuit breaker design pattern in Java
+- java design patterns
 
 category: blog
 comments: true

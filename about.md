@@ -1,6 +1,17 @@
 ---
-title: About
+title: "About Me"
 layout: page
+date: 2017-04-04 21:39
+description: |
+  Viktar Charnarutski is a certified Java programmer mostly focused on
+  Java programming, Performance Management and Optimization processes,
+  Distributed Systems and In-Memory computing solutions.
+keywords:
+  - viktar charnarutski
+  - виктор черноруцкий
+  - performance optimization blog
+  - blog about programming
+  - java blog
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 

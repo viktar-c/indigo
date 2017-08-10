@@ -2,9 +2,18 @@
 title: "Write Behind with Coherence Federated Caching"
 layout: post
 date: 2017-05-22 17:20
+
 tag:
 - write-behind
 - coherence
+- in-memory computing
+
+keywords:
+- distributed cache
+- oracle coherence
+- coherence datagrid
+- coherence cache
+- write behind
 - in-memory computing
 
 category: blog
