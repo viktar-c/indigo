@@ -2,8 +2,17 @@
 name: Viktar Charnarutski
 bio: Never stop moving
 
-# twitter summary info
+# SEO plugin
+title: Viktar Charnarutski
 description: A blog about technology and stuff related
+url: http://www.viktarx.com
+authors:
+    viktar:
+        name: Viktar Charnarutski
+        bio: Never stop moving
+        external-image: false
+        picture: assets/images/viktar-charnarutski-700x700.jpg
+        twitter: vityahd
 
 # if it's an external image, update below for true
 # better with square images
@@ -15,9 +24,6 @@ picture: assets/images/viktar-charnarutski-700x700.jpg
 resume: true
 resume-external: false
 resume-url: assets/resume/Viktar_Charnarutski_Resume.pdf
-
-# your url: http://USERNAME.github.io
-url: http://www.viktarx.com
 
 permalink: /:categories/:year/:month/:day/:title.html
 
@@ -50,14 +56,6 @@ stackoverflow: 6170272/viktar-charnarutski
 # medium: medium
 # vimeo: myvimeo
 email: v.charnarutski@gmail.com
-
-authors:
-    viktar:
-        name: Viktar Charnarutski
-        bio: Never stop moving
-        external-image: false
-        picture: assets/images/viktar-charnarutski-700x700.jpg
-        twitter: vityahd
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
