@@ -16,7 +16,7 @@ keywords:
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Hi there! I'm <b>Viktar</b>, I'm a certified Java
-programmer with 9+ years of experience in the industry.</p>
+programmer with 10+ years of experience in the industry.</p>
 
 <p>I'm mostly focusing on Java programming, Performance Management
 and Optimization processes, Distributed Systems and In-Memory computing
