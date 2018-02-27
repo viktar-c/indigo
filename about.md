@@ -15,30 +15,42 @@ keywords:
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there! I'm <b>Viktar</b>, I'm a certified Java
-programmer with 10+ years of experience in the industry.</p>
+<p>Hi, my name is Viktar Charnarutski.
+<br/>
+I love to program and have been working as a software engineer more than
+10 years already.
+<br/>
+I’m passionate about solving complicated tasks, fixing performance
+bottlenecks by applying efficient algorithms and tuning system settings.
+<br/>
+I love working with people to do things bigger than I could accomplish alone.
+<br/>
+I’m motivated by big problems, and I believe most of them could be solved
+with a simple and straightforward solution.
+</p>
+I love filming and traveling, do a lot of sport activities:
+skateboarding and snowboarding, playing soccer, powerlyfting.
+</p>
 
-<p>I'm mostly focusing on Java programming, Performance Management
-and Optimization processes, Distributed Systems and In-Memory computing
-solutions.</p>
+<p>I </p>
 
-## My skill set
+## My Skill Set
 
 <ul class="skill-list">
-	<li><b>Software engineering</b>: Java, Python, SQL</li>
-	<li><b><a href="/tags#performance">Performance engineering</a></b>:
-	scaling, analysis, troubleshooting</li>
-	<li><b><a href="/tags#in-memory-computing">In-Memory computing</a></b>:
+	<li><b>Programming Languages</b>: Java, Python, SQL</li>
+	<li><b><a href="/tags#performance">Performance Engineering</a></b>:
+	Scaling, Analysis, Troubleshooting</li>
+	<li><b><a href="/tags#in-memory-computing">In-Memory Computing</a></b>:
 	Oracle Coherence, Hazelcast</li>
-	<li><b>eCommerce</b>: Oracle Commerce ATG, SAP Hybris</li>
 	<li><b>Software Development Methodologies</b>: Scrum, Kanban, TDD</li>
+	<li><b>eCommerce Platforms</b>: Oracle Commerce ATG, SAP Hybris</li>
 	<li><b><a href="/tags#tools">Tools</a></b>: JetBrains IntelliJ IDEA,
 	YourKit Java Profiler, Eclipse MAT Analyser, IBM Thread Analyzer,
 	Apache JMeter</li>
 </ul>
 
 
-## My certificates
+## My Certificates
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8a50a90-246c-418a-a9b6-45fe9ded252c"></div>
   <script type="text/javascript">
     (function() {
