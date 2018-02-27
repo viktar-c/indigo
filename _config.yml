@@ -1,6 +1,6 @@
 # main text of home
 name: Viktar Charnarutski
-bio: Never stop moving
+bio: Never Stop Moving
 
 # SEO plugin
 title: Viktar Charnarutski
@@ -9,7 +9,7 @@ url: http://www.viktarx.com
 authors:
     viktar:
         name: Viktar Charnarutski
-        bio: Never stop moving
+        bio: Never Stop Moving
         external-image: false
         picture: assets/images/viktar-charnarutski-700x700.jpg
         twitter: vityahd
