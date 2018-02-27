@@ -28,6 +28,7 @@ I love working with people to do things bigger than I could accomplish alone.
 I’m motivated by big problems, and I believe most of them could be solved
 with a simple and straightforward solution.
 </p>
+<p>
 I love <a href="https://www.youtube.com/channel/UC0ypf0WhaEKCtscK8OIuMOQ">filming</a>
 and traveling, do a lot of sport activities:
 skateboarding and snowboarding, playing soccer, powerlifting.
