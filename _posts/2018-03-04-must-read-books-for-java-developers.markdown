@@ -1,7 +1,7 @@
 ---
 title: "Must-Read Books for Java Developers"
 layout: post
-date: 2019-03-04 11:05
+date: 2018-03-04 11:05
 
 tag:
 - books
@@ -34,7 +34,7 @@ my list of books advised for all levels of Java programmers.
 <div class="side-by-side">
     <div class="toleft">
     <a href='https://www.amazon.com/gp/product/0134685997/ref=as_li_tl?ie=UTF8&tag=viktarx-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0134685997&linkId=b55b7647430a5f4202d67800eb5e31bf'>
-        <img class="image" src="/assets/images/posts/2018/2018-03-04-must-read-books-for-java-developers/effective-java-bloch.jpg" alt="Effective Java (3rd Edition) by Joshua Bloch">
+        <img class="image" src="/assets/images/posts/2018/2018-03-04-must-read-books-for-java-developers/effective-java-bloch.jpg" width="280" alt="Effective Java (3rd Edition) by Joshua Bloch">
     </a>
         <figcaption class="caption">Effective Java (3rd Edition) by Joshua Bloch</figcaption>
     </div>
@@ -51,5 +51,26 @@ my list of books advised for all levels of Java programmers.
     </div>
 </div>
 
-[1]: https://www.amazon.com/gp/product/0134685997/ref=as_li_tl?ie=UTF8&tag=viktarx-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0134685997&linkId=b55b7647430a5f4202d67800eb5e31bf
+## 2. [Object Thinking (Developer Reference)][2] by David West
+<div class="side-by-side">
+    <div class="toleft">
+    <a href='https://www.amazon.com/gp/product/0735619654/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619654&linkCode=as2&tag=viktarx-20&linkId=d244bb13085c9022ca52ecb9ce99bb4d'>
+        <img class="image" src="/assets/images/posts/2018/2018-03-04-must-read-books-for-java-developers/object-thinking-west.jpg" width="280" alt="Object Thinking (Developer Reference) by David West">
+    </a>
+        <figcaption class="caption">Object Thinking (Developer Reference) by David West</figcaption>
+    </div>
 
+    <div class="toright">
+        <p>
+           For sure it's a kind of a Bible of  Object Oriented Programming.
+           <br/>
+           If you consider yourself not just a codder, but software
+           engineer, you have to read this deep and philosophical book
+           about how to turn your mind to an <b>Object Oriented</b> design,
+           programming, analysis, and thinking.
+        </p>
+    </div>
+</div>
+
+[1]: https://www.amazon.com/gp/product/0134685997/ref=as_li_tl?ie=UTF8&tag=viktarx-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0134685997&linkId=b55b7647430a5f4202d67800eb5e31bf
+[2]: https://www.amazon.com/gp/product/0735619654/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735619654&linkCode=as2&tag=viktarx-20&linkId=d244bb13085c9022ca52ecb9ce99bb4d
