@@ -15,8 +15,8 @@ keywords:
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>My name is Viktar Charnarutski, a software engineer with more than
-10 years experience in tech.</p>
+<p>My name is <a href="http://www.viktarx.com">Viktar Charnarutski</a>,
+I'm a software engineer with more than 10 years experience in a tech.</p>
 <p>
 I’m passionate about solving complicated tasks, fixing performance
 bottlenecks by applying efficient algorithms and tuning system settings.
@@ -73,4 +73,3 @@ skateboarding and snowboarding, playing soccer, power-lifting.
       o.parentNode.insertBefore(s, o);
       })();
   </script>
-
