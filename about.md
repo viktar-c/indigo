@@ -15,23 +15,22 @@ keywords:
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, my name is Viktar Charnarutski.
-<br/>
-I love to program and have been working as a software engineer more than
-10 years already.
-<br/>
+<p>My name is Viktar Charnarutski, a software engineer with more than
+10 years experience in tech.</p>
+<p>
 I’m passionate about solving complicated tasks, fixing performance
 bottlenecks by applying efficient algorithms and tuning system settings.
-<br/>
-I love working with people to do things bigger than I could accomplish alone.
-<br/>
-I’m motivated by big problems, and I believe most of them could be solved
+</p>
+<p>
+I like working in a team to do things bigger than I could accomplish alone.
+</p>
+<p>I’m motivated by big problems, and I believe most of them could be solved
 with a simple and straightforward solution.
 </p>
 <p>
-I love <a href="https://www.youtube.com/channel/UC0ypf0WhaEKCtscK8OIuMOQ">filming</a>
-and traveling, do a lot of sport activities:
-skateboarding and snowboarding, playing soccer, powerlifting.
+I like <a href="https://www.youtube.com/channel/UC0ypf0WhaEKCtscK8OIuMOQ">filming</a>
+and traveling, sport activities:
+skateboarding and snowboarding, playing soccer, power-lifting.
 </p>
 
 ## My Skill Set
