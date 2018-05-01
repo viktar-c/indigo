@@ -92,7 +92,9 @@ amount calculation. E.g. having 100KB per object and 1GB of heap memory,
 you can allow 10K objects to be cached.
 <br/>
 
-Or you can limit your cache size by consumed memory:
+Or you can limit your cache size by consumed memory, e.g. here we have
+100MB uppper limit for distributed cache with the **Least Recently Used**
+expiration policy:
 
 ```xml
 <distributed-scheme>
@@ -101,7 +103,7 @@ Or you can limit your cache size by consumed memory:
     <backing-map-scheme>
         <local-scheme>
             <eviction-policy>LRU</eviction-policy>
-            <high-units>1000000</high-units>
+            <high-units>100m</high-units>
             <expiry-delay>0</expiry-delay>
             <unit-calculator>BINARY</unit-calculator>
         </local-scheme>
@@ -113,6 +115,27 @@ Or you can limit your cache size by consumed memory:
 So now your _products_ cache won't grow beyond 1GB, and because of defined
 [Least Recently Used][2] eviction policy, old cached items will be
 replaced with new ones.
+<br/>
+
+**Please note**, that if your threshold is more than 3GB, you should use
+```<unit-factor>``` element with value of *1048576* to count megabytes
+instead of bytes:
+```xml
+<distributed-scheme>
+    <scheme-name>products</scheme-name>
+    <service-name>DistributedCache</service-name>
+    <backing-map-scheme>
+        <local-scheme>
+            <eviction-policy>LRU</eviction-policy>
+            <high-units>4096</high-units>
+            <unit-factor>1048576</unit-factor>
+            <expiry-delay>0</expiry-delay>
+            <unit-calculator>BINARY</unit-calculator>
+        </local-scheme>
+    </backing-map-scheme>
+    ...
+</distributed-scheme>
+```
 
 ## Summary
 As you can see, it's very important to take care about your cache's
