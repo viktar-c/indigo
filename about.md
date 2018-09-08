@@ -37,7 +37,7 @@ skateboarding and snowboarding, playing soccer, power-lifting.
 ## My Skill Set
 
 <ul class="skill-list">
-	<li><b>Programming Languages</b>: Java, Python, SQL</li>
+	<li><b>Programming Languages</b>: Java</li>
 	<li><b><a href="/tags#performance">Performance Engineering</a></b>:
 	Scaling, Analysis, Troubleshooting</li>
 	<li><b><a href="/tags#in-memory-computing">In-Memory Computing</a></b>:
